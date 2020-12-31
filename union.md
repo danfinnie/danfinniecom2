@@ -36,7 +36,7 @@ I have been a Google fanboy since high school, when I traveled to San Francisco 
 	<img src="/assets/37240_418942469920_600425_n.jpg" />
 	<img src="/assets/37300_418942684920_408308_n.jpg" />
 	<p class="caption">
-		Dan being a complete fanboy at Google in 2010.
+		A young me being a complete fanboy at Google in 2010.  I would never dress this way for a conference anymore!
 	</p>
 </div>
 
