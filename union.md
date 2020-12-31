@@ -9,7 +9,6 @@ I never thought I would be joining a union, much less one at Google.  My visions
 I have been a Google fanboy since high school, when I traveled to San Francisco for the first time to attend Google IO in 2010.  My friend and I shared a hotel room in the Tenderloin, and Google employees spent their time teaching us Android and other technologies.  That summer, I received support and prize money from Google for contributing to Python in the [Google Highly Open Participation Contest](https://developers.google.com/open-source/ghop/).
 
 <style>
-
 .photos {
 	border: 1px solid grey;
 }
@@ -25,7 +24,6 @@ I have been a Google fanboy since high school, when I traveled to San Francisco 
 	text-align: center;
 	width: 90%;
 }
-
 </style>
 
 <div class="photos">
