@@ -62,7 +62,7 @@ Recently, I remember being proud of Google for having employees work from home e
 
 ## The Now
 <div class="photos">
-	<img src="/assets/walkout.jpg" />
+	<img src="/assets/walkout.jpg" style="width:98%;" />
 	<p class="caption">
 		The 2018 Google Walkouts in New York.
 	</p>
