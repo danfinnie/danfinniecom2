@@ -25,7 +25,7 @@ I have been a Google fanboy since high school, when I traveled to San Francisco 
 .photos .caption {
 	display: block;
 	text-align: center;
-	margin: 5px 0;
+	margin: 5px auto;
 	width: 90%;
 }
 </style>
