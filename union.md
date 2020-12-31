@@ -11,17 +11,21 @@ I have been a Google fanboy since high school, when I traveled to San Francisco 
 <style>
 .photos {
 	border: 1px solid grey;
+	margin: 15px;
 }
 
 .photos img {
-	width: 45%;
-	margin: 3.33%;
+	width: 47%;
+	margin: 1% 1% 0 1%;
 	display: inline-block;
+	box-sizing: border-box;
+	vertical-align: top;
 }
 
 .photos .caption {
 	display: block;
 	text-align: center;
+	margin: 5px 0;
 	width: 90%;
 }
 </style>
