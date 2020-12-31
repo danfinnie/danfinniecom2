@@ -61,6 +61,13 @@ I remember my team in News hosting journalists and students all the time so that
 Recently, I remember being proud of Google for having employees work from home early in the pandemic and continuing to pay cafeteria workers.  I sent Sundar a thank you note and he replied.  Google is still a place where employees call the CEO by their first name and they reply to random emails from individual contributors.
 
 ## The Now
+<div class="photos">
+	<img src="/assets/walkout.jpg" />
+	<p class="caption">
+		The 2018 Google Walkouts in New York.
+	</p>
+</div>
+
 
 [Paul Duke](https://www.buzzfeednews.com/article/ryanmac/fired-google-employees-nlrb-investigation-cbp) was on my team when he and several others were fired. He was an internal whistleblower that Google saw as a threat.  My first thought, despite us having a personal connection, was that being fired was the natural result of his actions.  Some will think the same of [Google firing AI ethicist Timnit Gebru](https://www.theverge.com/2020/12/3/22150355/google-fires-timnit-gebru-facial-recognition-ai-ethicist) -- Google is positioning itself as an AI-first company, so publishing papers that point out AI’s flaws does not seem in Google’s best interest.
 
