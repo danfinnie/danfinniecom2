@@ -44,6 +44,14 @@ On a more serious note, I remember being skeptical when I submitted a sexual har
 
 When I had ACL reconstruction surgery, I was able to take all the time I needed for the recovery (although I ended up getting bored and working!).  I worked from home for over a month until I could ride the subway, shifted my hours to be able to get a seat on the subway, and attended physical therapy during the workday.  Doctors kept offering me notes to give to my manager, which they never asked for.  I’m grateful for all of that.
 
+<div class="photos">
+	<img src="/assets/mongolia.jpg" />
+	<img src="/assets/hospital.jpg" />
+	<p class="caption">
+		This is how it started, this is how it ended.  Google was supportive of my trip and my surgery.
+	</p>
+</div>
+
 I remember my team in News hosting journalists and students all the time so that we could gain a connection to the industry.  I remember some journalism students asking me what would surprise them the most to hear about Google.  My response was that the individual contributors on my team are thinking daily about users and keeping journalism alive, not money.  How rare is that?  I still feel this way and I’m proud of our leadership for fostering this culture.  
 
 Recently, I remember being proud of Google for having employees work from home early in the pandemic and continuing to pay cafeteria workers.  I sent Sundar a thank you note and he replied.  Google is still a place where employees call the CEO by their first name and they reply to random emails from individual contributors.
