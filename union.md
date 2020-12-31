@@ -6,7 +6,37 @@ Daniel Finnie - Jan 4 2020
 
 I never thought I would be joining a union, much less one at Google.  My visions of unions were images of striking steelworkers and [rubber rooms for impossible-to-fire teachers](https://nypost.com/2019/11/02/nyc-pays-rubber-room-teacher-six-figures-20-years-after-sex-abuse-claims/).
 
-I have been a Google fanboy since high school, when I traveled to San Francisco for the first time to attend Google IO.  My friend and I shared a hotel room in the Tenderloin, and Google employees spent their time teaching us Android and other technologies.  That summer, I received support and prize money from Google for contributing to Python in the [Google Highly Open Participation Contest](https://developers.google.com/open-source/ghop/).
+I have been a Google fanboy since high school, when I traveled to San Francisco for the first time to attend Google IO in 2010.  My friend and I shared a hotel room in the Tenderloin, and Google employees spent their time teaching us Android and other technologies.  That summer, I received support and prize money from Google for contributing to Python in the [Google Highly Open Participation Contest](https://developers.google.com/open-source/ghop/).
+
+<style>
+
+.photos {
+	border: 1px solid grey;
+}
+
+.photos img {
+	width: 45%;
+	margin: 3.33%;
+	display: inline-block;
+}
+
+.photos .caption {
+	display: block;
+	text-align: center;
+	width: 90%;
+}
+
+</style>
+
+<div class="photos">
+	<img src="/assets/37240_418942174920_4736774_n.jpg" />
+	<img src="/assets/37240_418941799920_394657_n.jpg" />
+	<img src="/assets/37240_418942469920_600425_n.jpg" />
+	<img src="/assets/37300_418942684920_408308_n.jpg" />
+	<p class="caption">
+		Dan being a complete fanboy at Google in 2010.
+	</p>
+</div>
 
 I would have been against unionizing when I started at Google in 2015.  Installing a RAM upgrade for my desktop reminded me of building my own computer in middle school -- would a union make it so that I need to wait for a union-authorized technician to install RAM?  On my first work trip to Mountain View, I made sure to get a good seat at TGIF to watch execs answer questions honestly, even when it was Sergey Brin responding to an employee complaint about internet reimbursement -- would a union stifle internal transparency and access to execs?  I saw my pay increase as I earned good performance ratings and promotions -- would a union protect low performers at my expense?
 
@@ -28,9 +58,9 @@ In the year since Paul was fired, my views shifted.  I now see what Paul Duke, T
 
 From both a moral and a business perspective, I think they were right.  Google is coming from a position of strength and competing based on data, user trust, and innovation.  In this space, good morals align with good business sense:
 * Google’s greatest asset is its employees, and these repeated scandals are leading some to quit, demoralizing others, and leaving behind the complacent ones.  Are the remaining employees the ones who are thinking of revolutionary, world-changing ideas?
-* Google should address the environmental and bias issues with AI, not try to sweep them under the rug.  Not doing so is as short-sighted as Exxon-Mobile pretending that climate change doesn’t exist.  True leadership would embrace these challenges, developing solutions rather than hiding problems.
+* Google should address the environmental and bias issues with AI, not try to sweep them under the rug.  Not doing so is as short-sighted as ExxonMobile pretending that climate change doesn’t exist.  True leadership would embrace these challenges, developing solutions rather than hiding problems.
 * AI research is increasingly done at tech companies instead of universities.  If Google wants top researchers and to collaborate with universities, it should offer them true academic freedom.
-* Public trust in Google is shaken by these reports.  For instance, I would not ride in a Tesla or Uber self-driving car because I know that they have grueling cultures that promote making and hiding mistakes.  I have considered travelling to Phoenix to ride in a Waymo self driving car because I believe that they have a safety-first culture.  How many users have switched to Apple products or other search engines because they don’t trust Google?  How many people will start unchecking tracking consent options?
+* Public trust in Google is shaken by these reports.  For instance, I would not ride in a Tesla or Uber self-driving car because I know that they have grueling cultures that promote making and hiding mistakes.  I have considered travelling to Phoenix to ride in a Waymo self-driving car because I believe that they have a safety-first culture.  How many users have switched to Apple products or other search engines because they don’t trust Google?  How many people will start unchecking tracking consent options?
 
 I don’t feel mistreated as a worker by Google, but I think that the company’s recent decisions have hurt both its moral compass and business position.
 
